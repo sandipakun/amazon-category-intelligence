@@ -149,4 +149,4 @@ Data cleaning and transformation, feature engineering, pivot table analysis, KPI
 
 **Sandipa**
 
-[GitHub](#) · [LinkedIn](#)
+[GitHub](#https://github.com/sandipakun) · [LinkedIn](#)
